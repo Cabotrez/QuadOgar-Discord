@@ -1,0 +1,15 @@
+{
+  "name": "quadogar",
+  "version": "1.0.0",
+  "description": "A discord bot assisting the game QuadOgar",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlexHGaming",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "figlet": "^1.2.4"
+  }
+}
